@@ -1,9 +1,9 @@
 ## 3D_GameDev_Project
-###Project to Uni class: 3D gameDevelopment
+### Project to Uni class: 3D gameDevelopment
 
 # <GAME NAME>
 
-#Goal
+# Goal
 The goal is to make a simple Unity 3D story game with some interesting functions ex:
 - main menu
 - pause menu
@@ -12,10 +12,10 @@ The goal is to make a simple Unity 3D story game with some interesting functions
 - customizable controls
 - lights? (is lights a thing for the project?)
 
-#Story
+# Story
 The main character is an engineer in an underground Uranium mine. The mine is shut down because of maintenance. You visited a tunnel, the chemical things in the soil, but no workers around, just some engineers. Fire alarm sets on, you have to run out before smoke (if there is a fire) catches you.
 
-#Game Mechanics
+# Game Mechanics
 - large areas are in 3D, when you goes trough a tunnel it switches to 2D to make everithing difficult
 - basic movement (WASD)
 - jump (SPACE)
