@@ -10,6 +10,7 @@ The goal is to make a simple Unity 3D story game with some interesting functions
 - switch between 3D and 2D
 - a low-budget character customisation
 - customizable controls
+- ladder system
 - lights? (is lights a thing for the project?)
 
 # Story
@@ -17,7 +18,8 @@ The main character is an engineer in an underground Uranium mine. The mine is sh
 
 # Game Mechanics
 - large areas are in 3D, when you goes trough a tunnel it switches to 2D to make everithing difficult
-- basic movement (WASD)
+- basic movement (WASD) {Differend in 3D / 2D}
+- ladder mechanism
 - jump (SPACE)
 - crouch (CTRL)
 - sprint (SHIFT)
